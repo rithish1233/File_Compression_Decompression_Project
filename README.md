@@ -98,4 +98,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Made with ❤️ by Team HPRSV lead by [rithish1233](https://github.com/rithish1233)
-```
